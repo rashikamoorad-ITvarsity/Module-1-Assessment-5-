@@ -46,6 +46,7 @@
     color:black;
     font-weight: 900;
 }
+
 h2{
 font-family: cursive;    
 text-decoration: underline;
@@ -106,5 +107,6 @@ li{
 p{
     font-family: cursive;
     font-weight: bold;
+    font-size:20px;
 }
     
